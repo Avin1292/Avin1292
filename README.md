@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avin1292
+- 👋 Hi, I’m Avinash Kumar @Avin1292
 - 👀 I’m interested in Learning automation and new tech stacks
 - 🌱 I’m currently learning Artificial learning and Machine learning
 - 💞️ I’m looking to collaborate on Automation and new projects
